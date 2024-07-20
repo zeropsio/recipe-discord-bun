@@ -1,0 +1,11 @@
+zerops:
+  - setup: bot
+    build:
+      base: bun@1.1
+      buildCommands:
+        - bun i
+      deployFiles:
+        - /
+    run:
+      base: bun@1.1
+      start: bun start
