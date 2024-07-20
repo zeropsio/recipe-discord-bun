@@ -1,5 +1,5 @@
 zerops:
-  - setup: bot
+  - setup: discordbun
     build:
       base: bun@1.1
       buildCommands:
