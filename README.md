@@ -8,7 +8,7 @@ Discord.js is a powerful module that allows you to interact with the Discord API
 
 ## Deploy to Zerops
 
-You can either click the deploy button to deploy directly on Zerops, or manually copy the [import yaml](https://github.com/zeropsio/recipe-discordjs-bun/blob/main/zerops-project-import.yml) to the import dialog in the Zerops app.
+You can either click the deploy button to deploy directly on Zerops, or manually copy the [import yaml](https://github.com/zeropsio/recipe-discord-bun/blob/main/zerops-project-import.yml) to the import dialog in the Zerops app.
 
 <br/>
 
@@ -51,7 +51,7 @@ This recipe is ready for production as is, and will scale horizontally by adding
 <br/>
 
 ## Changes made over the default installation
-If you want to modify your existing Discord.js bot to efficiently run on Zerops, there are no changes needed in the codebase on top of the standard installation, just add [zerops.yml](https://github.com/zeropsio/recipe-discordjs-bun/blob/main/zerops.yml) to your repository.
+If you want to modify your existing Discord.js bot to efficiently run on Zerops, there are no changes needed in the codebase on top of the standard installation, just add [zerops.yml](https://github.com/zeropsio/recipe-discord-bun/blob/main/zerops.yml) to your repository.
 
 <br/>
 <br/>
