@@ -40,7 +40,7 @@ Now you have both environment variables.
 2. Head to your service. If you have full mode, check your sidebar and click on Environment Variables. On that page, you will see an "edit multiple secret variables in .env format" button. Click on it, paste your environment variables in the format shown below, and click on Update Secret Variables. You will then see a button to commit your changes.
 
 ```env
-# Note: This is just an example dont use it ^_^
+# Note: These Environment Variables are already invalidated.
 DISCORD_TOKEN=1226434606118965270 # Your token copied from the bot section
 DISCORD_CLIENT_ID=MTIyNjQ3NDYwNjExODk2NTI3MA.GtSgOF.W7wLWibfGtP2tobLv_DsbFKdjlGmOwzxliTejI # Your application ID copied from the General Information section
 ```
