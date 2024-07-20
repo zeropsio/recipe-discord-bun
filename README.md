@@ -17,7 +17,7 @@ You can either click the deploy button to deploy directly on Zerops, or manually
 
 <br/>
 
-[![Deploy on Zerops](https://github.com/zeropsio/recipe-shared-assets/blob/main/deploy-button/green/deploy-button.svg)](https://app.zerops.io/recipe/discordjs)
+[![Deploy on Zerops](https://github.com/zeropsio/recipe-shared-assets/blob/main/deploy-button/green/deploy-button.svg)](https://app.zerops.io/recipe/discord-bun)
 
 <br/>
 
@@ -25,6 +25,8 @@ You can either click the deploy button to deploy directly on Zerops, or manually
 Latest version of Discord.js running on a load balanced **Zerops Bun** service.
 
 <br/>
+
+[Click here](https://app.zerops.io/recipe/discord-bots) to test discord bot on available runtime examples 
 
 ## Setting up Environment Variables
 
